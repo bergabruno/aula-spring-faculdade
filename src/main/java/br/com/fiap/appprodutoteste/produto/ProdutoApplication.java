@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"br.com.fiap.appprodutoteste.produto.controllers"})
 public class ProdutoApplication {
 
 	public static void main(String[] args) {
